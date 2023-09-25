@@ -1,1 +1,4 @@
-gunicorn==20.1.0
+Flask
+Gunicorn
+firebase_admin
+firebase-admin
